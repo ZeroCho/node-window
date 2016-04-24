@@ -1,14 +1,14 @@
 {
   "name": "node-window",
   "version": "1.0.0",
-  "description": "window object for node",
+  "description": "simple package that exports window (made by jsdom) to nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://gihub.com/zerocho/node-window"
+    "url": "https://github.com/zerocho/node-window"
   },
   "keywords": [
     "window",
