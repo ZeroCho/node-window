@@ -17,6 +17,6 @@
   "author": "ZeroCho",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "^8.4.0"
+    "jsdom": "^9.9.1"
   }
 }
